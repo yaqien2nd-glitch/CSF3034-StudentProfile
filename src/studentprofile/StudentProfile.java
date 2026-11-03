@@ -6,7 +6,11 @@ package studentprofile;
 
 /**
  *
+<<<<<<< HEAD
  * @author Fatihah
+=======
+ * @author MP1
+>>>>>>> 9eb9f6149b0ffcc2604662f6e8aabeebd0cb588d
  */
 public class StudentProfile {
 
@@ -15,10 +19,17 @@ public class StudentProfile {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+<<<<<<< HEAD
         System.out.println("Name: Muhammad Ainul Yaqien Bin Jamdali"); 
         System.out.println("Student ID: S86071"); 
         System.out.println("Programme: Bachelor of Computer Science(Software Engineering) with Honours"); 
         
+=======
+        System.out.println("Name: Muhammad Ainul Yaqien bin Jamdali");
+        System.out.println("Student ID: S86071");
+        System.out.println("Programme: Bachelor of Computer Science (Software Engineering) with Honours");        
+
+>>>>>>> 9eb9f6149b0ffcc2604662f6e8aabeebd0cb588d
     }
     
 }
